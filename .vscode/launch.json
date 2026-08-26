@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/Users/arindamkarmakar/Desktop/k-arindam.github.io/index.html"
+            "file": "/Users/arindamkarmakar/Projects/k-arindam.github.io/index.html"
         }
     ]
 }
